@@ -19,7 +19,7 @@
 
 ## 👋 Bonjour à tous !
 
-Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech).
+Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachelor Concepteur Développeur d'Applications Numériques** (RNCP niv. 6) obtenu en alternance chez **EuroCave**, et étudiant en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech).
 
 > [!IMPORTANT]
 > 🎯 **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
@@ -32,29 +32,32 @@ Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastè
 
 ### 🎓 Mes formations
 
-- 🚀 **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) — IPI Lyon (IGENSIA Tech) · *2026 – 2028* · 🔄 **En cours** (alternance)
-- 💻 **Bachelor Concepteur Développeur d'Applications** (RNCP niv. 6) — IPI Lyon · *2025 – 2026* · ✅ **Validé** (alternance chez EuroCave)
-- 🖥️ **BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers) — ICOF Lyon · *2023 – 2025* · ✅ **Validé**
-- 📚 **Baccalauréat Général** — spécialités Mathématiques, NSI et HGGSP · Lycée Saint-Marc, Nivolas-Vermelle · ✅ **Validé**
+- 🚀 **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) — IPI Lyon (IGENSIA Tech) · *Oct. 2026 – Sept. 2028* · 🔄 **En cours** (alternance)
+- 💻 **Bachelor Concepteur Développeur d'Applications Numériques (CDAN)** (RNCP niv. 6) — IPI Lyon · *Oct. 2025 – Oct. 2026* · ✅ **Validé** (mémoire et soutenance validés **avec mention** sur le bloc conception)
+- 🖥️ **BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers) — ICOF Lyon · *Sept. 2023 – Juil. 2025* · ✅ **Validé**
+- 📚 **Baccalauréat Général** — spécialités Mathématiques, NSI et HGGSP · Lycée Saint-Marc, Nivolas-Vermelle · *2020 – 2023* · ✅ **Validé**
 
 ---
 
 ## 💼 Expérience
 
-### 🍷 EuroCave — Apprenti développeur · Département Finance / SI
-*Alternance · 1 an · Villeurbanne*
+### 🍷 EuroCave — Alternant Développeur SI · Service Système d'Information
+*Alternance · Oct. 2025 – Oct. 2026 · Siège social, Villeurbanne · Fabricant de caves à vin premium*
 
 - ⚙️ Conception et développement de **flux ETL** (Talend Open Studio)
 - 🤖 **Automatisation** de tâches métier récurrentes
 - 🔗 **Synchronisation des données** entre le site Web et le **CRM** (Salesforce)
+- 🗄️ **Optimisation des bases de données**
 - 📡 **Pilotage d'un projet IoT** : collecte et stockage de données avec **Docker** et **ClickHouse**
 
-### 🌐 Web at Heart — Développeur web · Agence web
-*Stages · Vienne (38)*
+### 🌐 Web at Heart — Stagiaire développeur web · Agence de communication web & digitale
+*Stages · Mai – Juin 2024 & Janv. – Févr. 2025 · Vienne (38)*
 
-- 💻 Développement de sites web et **e-commerce**
-- 🎨 Travail sur l'**UX/UI** et l'intégration
-- 🛠️ **Maintenance** et évolution de sites clients
+- 🎨 **UX/UI Web Design** et **design graphique**
+- 💻 **Développement web & mobile**
+- 🛒 Création de sites **e-commerce**
+- 🔍 **Référencement SEO**
+- 🛠️ **Hébergement & maintenance** de sites clients
 
 ---
 
@@ -97,8 +100,27 @@ Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastè
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+
+### 🛒 CMS & E-commerce
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
 
 </div>
+
+---
+
+## 🌍 Langues & certifications
+
+**Langues :** 🇫🇷 Français (langue maternelle) · 🇬🇧 Anglais (courant, B1) · 🇩🇪 Allemand (scolaire, A2)
+
+**Certifications :**
+- 🛡️ **SecNumacadémie** — ANSSI (Agence nationale de la sécurité des systèmes d'information)
+- 🔐 **Atelier RGPD** — CNIL
+- 🎖️ **Cyber Awareness Challenge 2024**
+- 🧩 **Pix**
 
 ---
 
