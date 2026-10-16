@@ -17,55 +17,61 @@
 
 ---
 
-## 👋 Bonjour à tous !
+## Bonjour à tous 👋
 
 Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachelor Concepteur Développeur d'Applications Numériques** (RNCP niv. 6) obtenu en alternance chez **EuroCave**, et étudiant en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech).
 
 > [!IMPORTANT]
-> 🎯 **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
+> **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
 >
-> 📩 Parlons-en : [contact.vivian.stachowiak@gmail.com](mailto:contact.vivian.stachowiak@gmail.com)
+> Parlons-en : [contact.vivian.stachowiak@gmail.com](mailto:contact.vivian.stachowiak@gmail.com)
 
 ---
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 
-### 🎓 Mes formations
+### Formations
 
-- 🚀 **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) — IPI Lyon (IGENSIA Tech) · *Oct. 2026 – Sept. 2028* · 🔄 **En cours** (alternance)
-- 💻 **Bachelor Concepteur Développeur d'Applications Numériques (CDAN)** (RNCP niv. 6) — IPI Lyon · *Oct. 2025 – Oct. 2026* · ✅ **Validé** (mémoire et soutenance validés **avec mention** sur le bloc conception)
-- 🖥️ **BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers) — ICOF Lyon · *Sept. 2023 – Juil. 2025* · ✅ **Validé**
-- 📚 **Baccalauréat Général** — spécialités Mathématiques, NSI et HGGSP · Lycée Saint-Marc, Nivolas-Vermelle · *2020 – 2023* · ✅ **Validé**
-
----
-
-## 💼 Expérience
-
-### 🍷 EuroCave — Alternant Développeur SI · Service Système d'Information
-*Alternance · Oct. 2025 – Oct. 2026 · Siège social, Villeurbanne · Fabricant de caves à vin premium*
-
-- ⚙️ Conception et développement de **flux ETL** (Talend Open Studio)
-- 🤖 **Automatisation** de tâches métier récurrentes
-- 🔗 **Synchronisation des données** entre le site Web et le **CRM** (Salesforce)
-- 🗄️ **Optimisation des bases de données**
-- 📡 **Pilotage d'un projet IoT** : collecte et stockage de données avec **Docker** et **ClickHouse**
-
-### 🌐 Web at Heart — Stagiaire développeur web · Agence de communication web & digitale
-*Stages · Mai – Juin 2024 & Janv. – Févr. 2025 · Vienne (38)*
-
-- 🎨 **UX/UI Web Design** et **design graphique**
-- 💻 **Développement web & mobile**
-- 🛒 Création de sites **e-commerce**
-- 🔍 **Référencement SEO**
-- 🛠️ **Hébergement & maintenance** de sites clients
+| Formation | Établissement | Période | Statut |
+|:--|:--|:--|:--|
+| **Mastère Professionnel Lead Dev Xpert**<br/><sub>RNCP niv. 7 · en alternance</sub> | IPI Lyon (IGENSIA Tech) | Oct. 2026 – Sept. 2028 | <img src="https://img.shields.io/badge/En%20cours-1F6FEB?style=flat-square" alt="En cours"/> |
+| **Bachelor Concepteur Développeur d'Applications Numériques (CDAN)**<br/><sub>RNCP niv. 6 · en alternance chez EuroCave</sub> | IPI Lyon | Oct. 2025 – Oct. 2026 | <img src="https://img.shields.io/badge/Valid%C3%A9-2EA043?style=flat-square" alt="Validé"/><br/><sub>Mention sur le bloc conception</sub> |
+| **BTS SIO option SLAM**<br/><sub>Solutions Logicielles et Applications Métiers</sub> | ICOF Lyon | Sept. 2023 – Juil. 2025 | <img src="https://img.shields.io/badge/Valid%C3%A9-2EA043?style=flat-square" alt="Validé"/> |
+| **Baccalauréat Général**<br/><sub>Spécialités Mathématiques, NSI et HGGSP</sub> | Lycée Saint-Marc, Nivolas-Vermelle | 2020 – 2023 | <img src="https://img.shields.io/badge/Valid%C3%A9-2EA043?style=flat-square" alt="Validé"/> |
 
 ---
 
-## 🛠️ Mes compétences
+## Expérience
+
+### EuroCave — Alternant Développeur SI
+`Alternance` `Oct. 2025 – Oct. 2026` `Service Système d'Information` `Villeurbanne`
+
+Fabricant de caves à vin premium, service informatique du siège social.
+
+- Conception et développement de **flux ETL** (Talend Open Studio)
+- **Automatisation** de tâches métier récurrentes
+- **Synchronisation des données** entre le site Web et le **CRM** (Salesforce)
+- **Optimisation des bases de données**
+- **Pilotage d'un projet IoT** : collecte et stockage de données avec **Docker** et **ClickHouse**
+
+### Web at Heart — Stagiaire développeur web
+`Stages` `Mai – Juin 2024` `Janv. – Févr. 2025` `Vienne (38)`
+
+Agence de communication web et digitale.
+
+- **UX/UI Web Design** et **design graphique**
+- **Développement web & mobile**
+- Création de sites **e-commerce**
+- **Référencement SEO**
+- **Hébergement & maintenance** de sites clients
+
+---
+
+## Compétences
 
 <div align="center">
 
-### 💬 Langages
+#### Langages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -76,18 +82,18 @@ Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachel
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
 
-### 🧩 Frameworks & Librairies
+#### Frameworks & Librairies
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 
-### 🗄️ Bases de données
+#### Bases de données
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
 
-### 🚀 DevOps & Outils
+#### DevOps & Outils
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Docker_Compose-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -96,7 +102,7 @@ Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachel
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
 
-### 💻 Logiciels
+#### Logiciels
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
@@ -104,7 +110,7 @@ Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachel
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 
-### 🛒 CMS & E-commerce
+#### CMS & E-commerce
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
 
@@ -112,23 +118,30 @@ Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachel
 
 ---
 
-## 🌍 Langues & certifications
-
-**Langues :** 🇫🇷 Français (langue maternelle) · 🇬🇧 Anglais (courant, B1) · 🇩🇪 Allemand (scolaire, A2)
-
-**Certifications :**
-- 🛡️ **SecNumacadémie** — ANSSI (Agence nationale de la sécurité des systèmes d'information)
-- 🔐 **Atelier RGPD** — CNIL
-- 🎖️ **Cyber Awareness Challenge 2024**
-- 🧩 **Pix**
-
----
-
-## 📫 Me contacter
+## Langues & certifications
 
 <div align="center">
 
-**Une alternance à pourvoir à partir d'octobre 2026 ? Un projet à discuter ? Écrivez-moi !** 🚀
+#### Langues
+<img src="https://img.shields.io/badge/Fran%C3%A7ais-Langue%20maternelle-2EA043?style=flat-square" alt="Français : langue maternelle"/>
+<img src="https://img.shields.io/badge/Anglais-Courant%20(B1)-1F6FEB?style=flat-square" alt="Anglais : courant (B1)"/>
+<img src="https://img.shields.io/badge/Allemand-Scolaire%20(A2)-6E7681?style=flat-square" alt="Allemand : scolaire (A2)"/>
+
+#### Certifications
+<img src="https://img.shields.io/badge/ANSSI-SecNumacad%C3%A9mie-000091?style=flat-square" alt="ANSSI : SecNumacadémie"/>
+<img src="https://img.shields.io/badge/CNIL-Atelier%20RGPD-E1000F?style=flat-square" alt="CNIL : Atelier RGPD"/>
+<img src="https://img.shields.io/badge/Cyber%20Awareness%20Challenge-2024-6E7681?style=flat-square" alt="Cyber Awareness Challenge 2024"/>
+<img src="https://img.shields.io/badge/Pix-Certification-6A1B9A?style=flat-square" alt="Pix"/>
+
+</div>
+
+---
+
+## Me contacter
+
+<div align="center">
+
+**Une alternance à pourvoir à partir d'octobre 2026 ? Un projet à discuter ? Écrivez-moi !**
 
 <table>
   <tr>
