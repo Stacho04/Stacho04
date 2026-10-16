@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Vivian%20Stachowiak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20d'applications%20%E2%80%A2%20Mast%C3%A8re%20Lead%20Dev%20Xpert%20%40%20IPI%20Lyon&descAlignY=58&descSize=16" width="100%" alt="Bannière Vivian Stachowiak"/>
 
 <a href="https://github.com/Stacho04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;En+recherche+d%27alternance+(Oct.+2026+-+Sept.+2028)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=780&lines=%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;En+recherche+d%27alternance+(Oct.+2026+-+Sept.+2028)" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,6 +23,7 @@ Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastè
 
 > [!IMPORTANT]
 > 🎯 **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
+>
 > 📩 Parlons-en : [contact.vivian.stachowiak@gmail.com](mailto:contact.vivian.stachowiak@gmail.com)
 
 ---
@@ -107,9 +108,31 @@ Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastè
 
 **Une alternance à pourvoir à partir d'octobre 2026 ? Un projet à discuter ? Écrivez-moi !** 🚀
 
-<a href="https://www.linkedin.com/in/vivian-stachowiak/"><img src="https://img.shields.io/badge/LinkedIn-Vivian_Stachowiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-vivian-stachowiak.fr"><img src="https://img.shields.io/badge/Portfolio-portfolio--vivian--stachowiak.fr-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:contact.vivian.stachowiak@gmail.com"><img src="https://img.shields.io/badge/Email-contact.vivian.stachowiak%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<table>
+  <tr>
+    <td align="center" width="210">
+      <a href="https://www.linkedin.com/in/vivian-stachowiak/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/>
+        <br/><b>LinkedIn</b>
+      </a>
+      <br/><sub>vivian-stachowiak</sub>
+    </td>
+    <td align="center" width="210">
+      <a href="https://portfolio-vivian-stachowiak.fr">
+        <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f310.svg" width="48" height="48" alt="Portfolio"/>
+        <br/><b>Portfolio</b>
+      </a>
+      <br/><sub>portfolio-vivian-stachowiak.fr</sub>
+    </td>
+    <td align="center" width="210">
+      <a href="mailto:contact.vivian.stachowiak@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/2709.svg" width="48" height="48" alt="Email"/>
+        <br/><b>Email</b>
+      </a>
+      <br/><sub>contact.vivian.stachowiak@gmail.com</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
