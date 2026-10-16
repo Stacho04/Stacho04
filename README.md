@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Vivian%20Stachowiak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20d'applications%20%E2%80%A2%20Mast%C3%A8re%20Lead%20Dev%20Xpert%20%40%20IPI%20Lyon&descAlignY=58&descSize=16" width="100%" alt="Bannière Vivian Stachowiak"/>
 
 <a href="https://github.com/Stacho04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hello%2C+moi+c%27est+Vivian+!;%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;En+recherche+d%27alternance+(Oct.+2026+-+Sept.+2028);Web+%E2%80%A2+Mobile+%E2%80%A2+Architecture+%E2%80%A2+DevOps;Automatisation+%26+pipelines+de+donn%C3%A9es" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;En+recherche+d%27alternance+(Oct.+2026+-+Sept.+2028)" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -17,11 +17,9 @@
 
 ---
 
-## 👋 Hey there !
+## 👋 Bonjour à tous !
 
 Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech).
-
-J'aime concevoir des applications **robustes et bien architecturées**, mais ce qui me motive le plus, c'est **automatiser ce qui peut l'être** : flux de données, synchronisations entre outils, tâches répétitives… Si un process peut tourner tout seul, j'ai envie de le construire.
 
 > [!IMPORTANT]
 > 🎯 **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
@@ -31,12 +29,12 @@ J'aime concevoir des applications **robustes et bien architecturées**, mais ce 
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 **Mastère Lead Dev Xpert** à l'IPI Lyon — après un Bachelor Concepteur Développeur d'Applications et un BTS SIO SLAM
-- 🔄 Passionné par l'**automatisation** et la conception de **pipelines de données** (Talend, SharePoint)
-- 🏗️ Intéressé par l'**architecture logicielle** et les bonnes pratiques DevOps (conteneurisation, CI/CD)
-- 🐳 Habitué à travailler avec **Docker** au quotidien, du poste de dev jusqu'à la prod
-- 🌱 En ce moment, j'approfondis l'**architecture distribuée** et le **développement mobile** (Kotlin / Jetpack Compose)
-- 🤝 À l'aise aussi bien côté technique que dans les échanges avec les équipes métier
+### 🎓 Mes formations
+
+- 🚀 **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) — IPI Lyon (IGENSIA Tech) · *2026 – 2028* · 🔄 **En cours** (alternance)
+- 💻 **Bachelor Concepteur Développeur d'Applications** (RNCP niv. 6) — IPI Lyon · *2025 – 2026* · ✅ **Validé** (alternance chez EuroCave)
+- 🖥️ **BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers) — ICOF Lyon · *2023 – 2025* · ✅ **Validé**
+- 📚 **Baccalauréat Général** — spécialités Mathématiques, NSI et HGGSP · Lycée Saint-Marc, Nivolas-Vermelle · ✅ **Validé**
 
 ---
 
@@ -103,25 +101,6 @@ J'aime concevoir des applications **robustes et bien architecturées**, mais ce 
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Stacho04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=fr&title_color=7aa2f7&icon_color=7aa2f7" alt="Statistiques GitHub de Vivian"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stacho04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr&title_color=7aa2f7" alt="Langages les plus utilisés"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Stacho04&theme=tokyonight&hide_border=true&locale=fr&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stacho04&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphique d'activité"/>
-
-</div>
-
----
-
 ## 📫 Me contacter
 
 <div align="center">
@@ -131,10 +110,6 @@ J'aime concevoir des applications **robustes et bien architecturées**, mais ce 
 <a href="https://www.linkedin.com/in/vivian-stachowiak/"><img src="https://img.shields.io/badge/LinkedIn-Vivian_Stachowiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfolio-vivian-stachowiak.fr"><img src="https://img.shields.io/badge/Portfolio-portfolio--vivian--stachowiak.fr-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:contact.vivian.stachowiak@gmail.com"><img src="https://img.shields.io/badge/Email-contact.vivian.stachowiak%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Stacho04&color=7aa2f7&style=flat-square&label=Vues+du+profil" alt="Vues du profil"/>
 
 </div>
 
