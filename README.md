@@ -1,16 +1,142 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<!--
-**Stacho04/Stacho04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Vivian%20Stachowiak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20d'applications%20%E2%80%A2%20Mast%C3%A8re%20Lead%20Dev%20Xpert%20%40%20IPI%20Lyon&descAlignY=58&descSize=16" width="100%" alt="Bannière Vivian Stachowiak"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/Stacho04">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hello%2C+moi+c%27est+Vivian+!;%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;En+recherche+d%27alternance+(Oct.+2026+-+Sept.+2028);Web+%E2%80%A2+Mobile+%E2%80%A2+Architecture+%E2%80%A2+DevOps;Automatisation+%26+pipelines+de+donn%C3%A9es" alt="Typing SVG"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://www.linkedin.com/in/vivian-stachowiak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfolio-vivian-stachowiak.fr"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:contact.vivian.stachowiak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+## 👋 Hey there !
+
+Je m'appelle **Vivian**, développeur basé à **Lyon** et étudiant en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech).
+
+J'aime concevoir des applications **robustes et bien architecturées**, mais ce qui me motive le plus, c'est **automatiser ce qui peut l'être** : flux de données, synchronisations entre outils, tâches répétitives… Si un process peut tourner tout seul, j'ai envie de le construire.
+
+> [!IMPORTANT]
+> 🎯 **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
+> 📩 Parlons-en : [contact.vivian.stachowiak@gmail.com](mailto:contact.vivian.stachowiak@gmail.com)
+
+---
+
+## 🧑‍💻 À propos de moi
+
+- 🎓 **Mastère Lead Dev Xpert** à l'IPI Lyon — après un Bachelor Concepteur Développeur d'Applications et un BTS SIO SLAM
+- 🔄 Passionné par l'**automatisation** et la conception de **pipelines de données** (Talend, SharePoint)
+- 🏗️ Intéressé par l'**architecture logicielle** et les bonnes pratiques DevOps (conteneurisation, CI/CD)
+- 🐳 Habitué à travailler avec **Docker** au quotidien, du poste de dev jusqu'à la prod
+- 🌱 En ce moment, j'approfondis l'**architecture distribuée** et le **développement mobile** (Kotlin / Jetpack Compose)
+- 🤝 À l'aise aussi bien côté technique que dans les échanges avec les équipes métier
+
+---
+
+## 💼 Expérience
+
+### 🍷 EuroCave — Apprenti développeur · Département Finance / SI
+*Alternance · 1 an · Villeurbanne*
+
+- ⚙️ Conception et développement de **flux ETL** (Talend Open Studio)
+- 🤖 **Automatisation** de tâches métier récurrentes
+- 🔗 **Synchronisation des données** entre le site Web et le **CRM** (Salesforce)
+- 📡 **Pilotage d'un projet IoT** : collecte et stockage de données avec **Docker** et **ClickHouse**
+
+### 🌐 Web at Heart — Développeur web · Agence web
+*Stages · Vienne (38)*
+
+- 💻 Développement de sites web et **e-commerce**
+- 🎨 Travail sur l'**UX/UI** et l'intégration
+- 🛠️ **Maintenance** et évolution de sites clients
+
+---
+
+## 🛠️ Mes compétences
+
+<div align="center">
+
+### 💬 Langages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+
+### 🧩 Frameworks & Librairies
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+
+### 🗄️ Bases de données
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
+
+### 🚀 DevOps & Outils
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Docker_Compose-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Talend_Open_Studio-FF6D70?style=for-the-badge&logo=talend&logoColor=white" alt="Talend Open Studio"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
+
+### 💻 Logiciels
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
+
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Stacho04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=fr&title_color=7aa2f7&icon_color=7aa2f7" alt="Statistiques GitHub de Vivian"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stacho04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr&title_color=7aa2f7" alt="Langages les plus utilisés"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Stacho04&theme=tokyonight&hide_border=true&locale=fr&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stacho04&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphique d'activité"/>
+
+</div>
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+**Une alternance à pourvoir à partir d'octobre 2026 ? Un projet à discuter ? Écrivez-moi !** 🚀
+
+<a href="https://www.linkedin.com/in/vivian-stachowiak/"><img src="https://img.shields.io/badge/LinkedIn-Vivian_Stachowiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfolio-vivian-stachowiak.fr"><img src="https://img.shields.io/badge/Portfolio-portfolio--vivian--stachowiak.fr-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:contact.vivian.stachowiak@gmail.com"><img src="https://img.shields.io/badge/Email-contact.vivian.stachowiak%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Stacho04&color=7aa2f7&style=flat-square&label=Vues+du+profil" alt="Vues du profil"/>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="Footer"/>
