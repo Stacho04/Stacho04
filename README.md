@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Vivian%20Stachowiak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20d'applications%20%E2%80%A2%20Mast%C3%A8re%20Lead%20Dev%20Xpert%20%40%20IPI%20Lyon&descAlignY=58&descSize=16" width="100%" alt="Bannière Vivian Stachowiak"/>
 
 <a href="https://github.com/Stacho04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=780&lines=%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;En+recherche+d%27alternance+(Oct.+2026+-+Sept.+2028)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=780&lines=%C3%89tudiant+en+Mast%C3%A8re+Lead+Dev+Xpert;D%C3%A9veloppeur+en+alternance+chez+INOV%27XPER" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -19,12 +19,9 @@
 
 ## Bonjour à tous 👋
 
-Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachelor Concepteur Développeur d'Applications Numériques** (RNCP niv. 6) obtenu en alternance chez **EuroCave**, et étudiant en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech).
+Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachelor Concepteur Développeur d'Applications Numériques** (RNCP niv. 6) obtenu en alternance chez **EuroCave**.
 
-> [!IMPORTANT]
-> **Je recherche une alternance de 24 mois** (octobre 2026 → septembre 2028) en **développement d'applications web & mobiles**, **architecture logicielle** ou **DevOps**.
->
-> Parlons-en : [contact.vivian.stachowiak@gmail.com](mailto:contact.vivian.stachowiak@gmail.com)
+Je suis actuellement en **Mastère Professionnel Lead Dev Xpert** (RNCP niv. 7) à l'**IPI Lyon** (IGENSIA Tech), en alternance en tant que **développeur** chez **INOV'XPER** à Francheville.
 
 ---
 
@@ -34,7 +31,7 @@ Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachel
 
 | Formation | Établissement | Période | Statut |
 |:--|:--|:--|:--|
-| **Mastère Professionnel Lead Dev Xpert**<br/><sub>RNCP niv. 7 · en alternance</sub> | IPI Lyon (IGENSIA Tech) | Oct. 2026 – Sept. 2028 | <img src="https://img.shields.io/badge/En%20cours-1F6FEB?style=flat-square" alt="En cours"/> |
+| **Mastère Professionnel Lead Dev Xpert**<br/><sub>RNCP niv. 7 · en alternance chez INOV'XPER</sub> | IPI Lyon (IGENSIA Tech) | Oct. 2026 – Sept. 2028 | <img src="https://img.shields.io/badge/En%20cours-1F6FEB?style=flat-square" alt="En cours"/> |
 | **Bachelor Concepteur Développeur d'Applications Numériques (CDAN)**<br/><sub>RNCP niv. 6 · en alternance chez EuroCave</sub> | IPI Lyon | Oct. 2025 – Oct. 2026 | <img src="https://img.shields.io/badge/Valid%C3%A9-2EA043?style=flat-square" alt="Validé"/> |
 | **BTS SIO option SLAM**<br/><sub>Solutions Logicielles et Applications Métiers</sub> | ICOF Lyon | Sept. 2023 – Juil. 2025 | <img src="https://img.shields.io/badge/Valid%C3%A9-2EA043?style=flat-square" alt="Validé"/> |
 | **Baccalauréat Général**<br/><sub>Spécialités Mathématiques, NSI et HGGSP</sub> | Lycée Saint-Marc, Nivolas-Vermelle | 2020 – 2023 | <img src="https://img.shields.io/badge/Valid%C3%A9-2EA043?style=flat-square" alt="Validé"/> |
@@ -42,6 +39,9 @@ Je m'appelle **Vivian**, développeur basé à **Lyon**, titulaire d'un **Bachel
 ---
 
 ## 💼 Expérience
+
+### 💻 INOV'XPER — Développeur en alternance
+`Alternance` `Depuis 2026` `Mastère Lead Dev Xpert` `Francheville`
 
 ### 🍷 EuroCave — Alternant Développeur SI
 `Alternance` `Oct. 2025 – Oct. 2026` `Service Système d'Information` `Villeurbanne`
@@ -152,7 +152,7 @@ Agence de communication web et digitale.
 
 <div align="center">
 
-**Une alternance à pourvoir à partir d'octobre 2026 ? Un projet à discuter ? Écrivez-moi !**
+**Un projet à discuter ou une question ? Écrivez-moi !**
 
 <table>
   <tr>
